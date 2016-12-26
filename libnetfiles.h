@@ -1,0 +1,4 @@
+#ifndef LIBNETFILES_INCLUDED
+#define LIBNETFILES_INCLUDED
+
+#endif
